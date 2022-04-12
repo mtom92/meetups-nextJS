@@ -1,4 +1,4 @@
-import MeetUpDetail from '../../components/meetups/MeetupDetail';
+import MeetUpDetail from '../../components/meetups/MeetUpDetail';
 import { MongoClient, ObjectId } from 'mongodb';
 import { Fragment } from 'react';
 import Head from 'next/head'
