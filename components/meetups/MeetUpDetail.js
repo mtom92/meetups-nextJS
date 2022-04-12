@@ -1,4 +1,4 @@
-import classes from './MeetupDetail.module.css'
+import classes from './MeetUpDetail.module.css'
 
 const MeetUpDetail = props =>{
     return (
